@@ -17,3 +17,4 @@ GitLab Coursera certification (Oct 26, 2025). Verify: [https://coursera.org/shar
 
 ## Full Proof of Work
 [Notion Log](https://www.notion.so/GitLab-Remote-Team-Management-Certification-29a005749dec80ac9605d057b4543207)
+ Medium Article]([your-medium-url](https://medium.com/@david.j.jacob01/what-gitlab-taught-me-about-leading-remote-teams-fc48d932c977))
